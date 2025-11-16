@@ -1,1 +1,5 @@
 *.csv
+*.txt
+*.csv.gz
+*.zip
+*.7z
