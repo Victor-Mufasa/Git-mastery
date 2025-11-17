@@ -1,0 +1,2 @@
+When you compress a folder to a zipped one its contents size reduces to 15-25% its original size.
+A 7zip folder with contents consumes less space than the normal folder.
