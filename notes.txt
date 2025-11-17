@@ -3,3 +3,4 @@ A 7zip folder with contents consumes less space than the normal folder.
 A gzip file also reduces the file size but not as much as a 7zip does.
 A WINRAR file does not reduce a file size but archives it.
 There are many types of folders that pick interests especially those that consume less space.
+Try this folder formats to get the hang of it.
