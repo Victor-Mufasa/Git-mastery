@@ -1,6 +1,6 @@
 A gzip file also reduces the file size but not as much as a 7zip does.
 A WINRAR file does not reduce a file size but archives it.
 A TAR file really has no effect on the space it consumes.
-These folder types have many fuctions.
-A bit, nibble and byte and word are all ways in which computers communicate.
+These folder types have many fuctions especially space-wise.
+Bits, Nibbles and Bytes and Words are all ways in which computers communicate.
 Computers are very fascinating machines.
