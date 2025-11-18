@@ -4,6 +4,6 @@ A TAR file really has no effect on the space it consumes.
 These folder types have many fuctions especially space-wise.
 Bits, Nibbles and Bytes and Words are all ways in which computers communicate.
 Computers are very beautiful machines.
-There are five generations in computers.
+There are five generations in computers with different functions and some are outdated.
 All these generations have different characteristics.
 Some of these computers used vacuum tubes.
