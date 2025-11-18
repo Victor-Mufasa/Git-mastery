@@ -5,3 +5,4 @@ A WINRAR file does not reduce a file size but archives it.
 There are many types of folders that are interesting especially those that consume less space.
 Try this folder formats to get the hang of it.
 A bit, nibble and byte and word are all ways in which computers communicate.
+Computers talk in binary digits.
