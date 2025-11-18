@@ -1,5 +1,5 @@
 When you compress a folder to a zipped folder its contents size reduces to 15-25% its original size.
 A gzip file also reduces the file size but not as much as a 7zip does.
 A WINRAR file does not reduce a file size but archives it.
-A bit, nibble and byte and word are all ways in which computers communicate.
+Bits, nibbles and bytes and words are all ways in which computers communicate.
 Computers are fascinating machines.
